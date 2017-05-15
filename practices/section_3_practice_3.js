@@ -1,4 +1,4 @@
-function countSameElements() {
+function countSameElements(collection) {
 
 }
 
